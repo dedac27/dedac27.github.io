@@ -1,0 +1,10 @@
+
+.nav-link , .navbar-brand {
+    color:#5B0F00;
+    &:hover{
+        color: aliceblue;
+    }
+}
+.carousel{
+    border: 2px solid #5B0F00  ;
+}
